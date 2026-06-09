@@ -7,4 +7,4 @@ Images are uploaded to S3, processed via API Gateway triggering
 a Lambda function, and results are stored back in S3.
 
 Live URL: https://xjxmwfu5w2.execute-api.ap-southeast-2.amazonaws.com/prod
-Repository:https://github.com/yourusername/bis202-yolo-detection
+Repository:https://github.com/ShaRifulRiAd/bis202-yolo-detection
